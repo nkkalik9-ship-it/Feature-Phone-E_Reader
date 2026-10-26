@@ -1,0 +1,11 @@
+Welcome
+
+This is a sample book to show that your reader works. If you can read this on your phone, everything is set up correctly.
+
+To add your own books, save them as plain text (.txt) files and put them in the books folder. The file name becomes the book title, so a file called the-time-machine.txt shows up as "the time machine".
+
+Then redeploy to Vercel and the new book appears on the home page, split into short pages that load quickly.
+
+Tips: Use the Next link at the bottom of each page to keep reading. Opera Mini remembers where you were if you keep the tab open, and you can bookmark any page to come back to it later.
+
+Happy reading.

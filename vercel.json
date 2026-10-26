@@ -1,0 +1,14 @@
+{
+  "buildCommand": "node build.js",
+  "outputDirectory": "public",
+  "framework": null,
+  "functions": {
+    "api/index.js": {
+      "includeFiles": "data/**"
+    }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/api/index?__p=/" },
+    { "source": "/(.*)", "destination": "/api/index?__p=/$1" }
+  ]
+}
